@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 👋
 
 <!--
 **Kimjaegwun/Kimjaegwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jaekwon-kim-2a9863205/)
 
+[![Notion Badge](https://img.shields.io/badge/-Notion-Black?style=flat-square&logo=Notion&logoColor=black&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jaekwon-kim-2a9863205/)

@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaekwon-kim-2a9863205/)(https://www.linkedin.com/in/jaekwon-kim-2a9863205/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaekwon-kim-2a9863205/)](https://www.linkedin.com/in/jaekwon-kim-2a9863205/)
 
-[![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://shadow-change-df4.notion.site/a5c0a24e215d4efb9a594ff0ab103ffb)(https://shadow-change-df4.notion.site/a5c0a24e215d4efb9a594ff0ab103ffb)
+[![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=black&link=https://shadow-change-df4.notion.site/a5c0a24e215d4efb9a594ff0ab103ffb)](https://shadow-change-df4.notion.site/a5c0a24e215d4efb9a594ff0ab103ffb)

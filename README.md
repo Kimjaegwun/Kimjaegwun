@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 안녕하세요. 항상 재밌게 개발하고 싶은 IT 엔지니어입니다. 반갑습니다~ 😄
 
+[![Github](https://www.codenary.co.kr/widget/github/api?username=영다](https://www.codenary.co.kr/user-profile/detail/영다)

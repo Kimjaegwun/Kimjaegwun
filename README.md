@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 안녕하세요. 항상 재밌게 개발하고 싶은 IT 엔지니어입니다. 반갑습니다~ 😄
 -->
 
-![javascript](https://dev-stage.codenary.co.kr/widget/github-techstack/api?name=javascript) ![java](https://dev-stage.codenary.co.kr/widget/github-techstack/api?name=java)
-
-[![Github](https://wwwtest-stage.codenary.co.kr/widget/github/api?username=JaeGwun)](https://www.codenary.co.kr/user-profile/detail/JaeGwun)
+[![Github](https://www.codenary.co.kr/widget/github/api?username=JaeGwun)](https://www.codenary.co.kr/user-profile/detail/JaeGwun)

@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaekwon-kim-2a9863205/)](https://www.linkedin.com/in/jaekwon-kim-2a9863205/)[![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://shadow-change-df4.notion.site/a5c0a24e215d4efb9a594ff0ab103ffb)](https://shadow-change-df4.notion.site/a5c0a24e215d4efb9a594ff0ab103ffb)
 
-![javascript](https://dev-stage.codenary.co.kr/widget/github-techstack/api?name=javascript) ![java](https://dev-stage.codenary.co.kr/widget/github-techstack/api?name=java)
-
-
 안녕하세요. 항상 재밌게 개발하고 싶은 IT 엔지니어입니다. 반갑습니다~ 😄
+-->
+
+![javascript](https://dev-stage.codenary.co.kr/widget/github-techstack/api?name=javascript) ![java](https://dev-stage.codenary.co.kr/widget/github-techstack/api?name=java)
 
 [![Github](https://wwwtest-stage.codenary.co.kr/widget/github/api?username=JaeGwun)](https://www.codenary.co.kr/user-profile/detail/JaeGwun)
